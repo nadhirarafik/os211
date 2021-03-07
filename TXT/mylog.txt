@@ -7,3 +7,10 @@ ZCZC W00 20 L23 Discord: register and read the rules in the announcement
 ZCZC W00 25 L01 SCELE related
 ZCZC W00 30 L10 Assignment (General)
 ZCZC W00 90 L26 Movie: relax
+ZCZC W01 100 L02 ZOOM related
+ZCZC W01 20 L03 GitHub related
+ZCZC W01 30 L05 GSGS related
+ZCZC W01 15 L09 AsDos: Asking
+ZCZC W01 90 L11 Assignment #1
+ZCZC W01 90 L26 Movie: relax
+ZCZC W01 45 L21 VirtualBox: install GNU/Linux, etc
