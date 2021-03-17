@@ -1,6 +1,6 @@
 # os211
 Operating Systems 2021-1 <br>
-[LOG](https://nadhirarafik.github.io/os211/TXT/mylog.txt)
+[LOG](https://nadhirarafik.github.io/os211/TXT/mylog.txt)<br>
 [MY RANK](https://nadhirarafik.github.io/os211/TXT/myrank.txt)
 
 Top 10 Lists <br>
