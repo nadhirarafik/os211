@@ -1,0 +1,11 @@
+title: "Operating Systems 2021-1 (OS211)"
+author: "Nadhira Rafik"
+sitemap: "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb: "https://nadhirarafik.github.io/os211/"
+urlgithub: "https://github.com/nadhirarafik/os211/"
+urlghpage: "https://nadhirarafik.github.io/os211/"
+keywords: "jekyll, testing"
+github: [metadata]
