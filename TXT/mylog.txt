@@ -51,3 +51,9 @@ ZCZC W07 100 L05 GSGS related
 ZCZC W07 30 L09 AsDos: Asking
 ZCZC W07 120 L17 Assignment #7
 ZCZC W07 60 L26  Movie: relax 
+ZCZC W08 45 L01 SCELE related
+ZCZC W08 100 L02 ZOOM related
+ZCZC W08 20 L03 GitHub related
+ZCZC W08 75 L05 GSGS related
+ZCZC W08 180 L17 Assignment #8
+ZCZC W08 30 L26 Movie: relax
